@@ -43,6 +43,20 @@ Create a `.env` file in the root folder and add your API key
 GROQ_API_KEY=your_api_key_here
 ```
 
+## 🧠 How It Works
+
+1. User uploads resume
+2. Text is extracted using parser
+3. Prompt sent to Groq LLM
+4. AI analyzes and returns:
+   - Skill gaps
+   - Suggestions
+   - Improvements
+   - Confidence score
+5. Memory tracks past attempts
+
+   
+
 ### 🔹 Input Screen
 ![Input Feilds](screenshots/first_slide.png)
 
