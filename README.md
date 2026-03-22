@@ -22,7 +22,20 @@ An AI-powered resume analyzer that provides personalized feedback, identifies sk
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/career-mentor-ai.git
+git clone https://github.com/tanushreebrao/career-mentor-ai.git
 cd career-mentor-ai
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## Environment Setup
+
+Create a `.env` file in the root folder and add your API key:
+
+GROQ_API_KEY=your_api_key_here
+
+
+## Author
+
+Tanushree B Rao  
+Built for Hackathon 🚀
