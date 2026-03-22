@@ -1,7 +1,7 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![AI](https://img.shields.io/badge/AI-Powered-green)
-
+![LLM](https://img.shields.io/badge/LLM-Groq-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 
 # 🚀 Career Mentor AI
@@ -15,6 +15,19 @@ An AI-powered resume analyzer that provides personalized feedback, identifies sk
 - 📈 Confidence score (0–100)
 - 🔁 Tracks multiple attempts
 - 📊 Shows improvement over time
+
+
+## Why This Project?
+
+Most resume tools give generic feedback.
+
+Career Mentor AI goes beyond that:
+- Understands job-specific requirements
+- Identifies *actual skill gaps*
+- Tracks improvement across multiple attempts
+- Gives a confidence score to measure readiness
+
+👉 It acts like a personalized AI career coach, not just a resume checker.
 
 
 ## Tech Stack
@@ -56,6 +69,7 @@ GROQ_API_KEY=your_api_key_here
 5. Memory tracks past attempts
 
    
+## Screenshots
 
 ### 🔹 Input Screen
 ![Input Feilds](screenshots/first_slide.png)
@@ -70,7 +84,16 @@ GROQ_API_KEY=your_api_key_here
 ![Score](screenshots/confidence_score.png)
 
 
+## Future Improvements
+
+- Add real-time job scraping (LinkedIn / Indeed)
+- Improve memory using vector databases (Hindsight integration)
+- Add user login & profile tracking
+- Deploy as a full web application
+  
+
 ## Author
 
-Tanushree B Rao  
-Built for Hackathon 🚀
+**Tanushree B Rao**  
+Built for Hackathon 
+Passionate about AI, problem-solving, and building impactful tools
