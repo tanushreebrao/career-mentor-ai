@@ -26,16 +26,17 @@ git clone https://github.com/tanushreebrao/career-mentor-ai.git
 cd career-mentor-ai
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 
 
 ## Environment Setup
 
 Create a `.env` file in the root folder and add your API key
 
+```bash
 GROQ_API_KEY=your_api_key_here
-
-
+```
+ 
 ## Author
 
 Tanushree B Rao  
