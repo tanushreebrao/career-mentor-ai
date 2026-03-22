@@ -43,8 +43,14 @@ Create a `.env` file in the root folder and add your API key
 GROQ_API_KEY=your_api_key_here
 ```
 
+### 🔹 Input Screen
+![Input Feilds](screenshots/first_slide.png)
+
  ### 🔹 AI Analysis Output
 ![AI Output](screenshots/ai_analysis.png)
+
+### 🔹 Improvements
+![Improvements](screenshots/improvemts.png)
 
 ### 🔹 Confidence Score
 ![Score](screenshots/confidence_score.png)
