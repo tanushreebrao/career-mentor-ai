@@ -42,7 +42,14 @@ Create a `.env` file in the root folder and add your API key
 ```bash
 GROQ_API_KEY=your_api_key_here
 ```
- 
+
+ ### 🔹 AI Analysis Output
+![AI Output](screenshots/ai_analysis.png)
+
+### 🔹 Confidence Score
+![Score](screenshots/confidence_score.png)
+
+
 ## Author
 
 Tanushree B Rao  
