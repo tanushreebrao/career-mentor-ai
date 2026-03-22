@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![AI](https://img.shields.io/badge/AI-Powered-green)
+
+
+
 # 🚀 Career Mentor AI
 
 An AI-powered resume analyzer that provides personalized feedback, identifies skill gaps, and suggests improvements based on job roles.
